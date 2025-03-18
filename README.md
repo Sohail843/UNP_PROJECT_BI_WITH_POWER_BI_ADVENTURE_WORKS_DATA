@@ -7,12 +7,15 @@ Project Workflow:
 Data Collection & Understanding:
 
 Explored the Adventure Works dataset, which included data on sales transactions, product categories, customer demographics, and regional sales performance.
+
 Data Cleaning & Preprocessing:
 
 Ensured data accuracy by handling missing values, fixing data types, and standardizing formats for seamless analysis.
+
 Defining Key Performance Indicators (KPIs):
 
 Identified essential business and sales metrics, such as:
+
 Total Revenue & Profit
 Sales Growth Rate
 Customer Acquisition & Retention
@@ -20,16 +23,21 @@ Top-selling Products & Regions
 Creating Measures using DAX:
 
 Developed DAX-based calculations for KPIs like year-over-year sales growth, profit margins, average order value, and customer segmentation metrics.
+
 Building Visualizations:
 
 Created bar charts, line graphs, and interactive tables to showcase sales performance, customer distribution, and product demand trends.
+
 Adding Slicers & Interactivity:
 
 Implemented interactive filters to analyze sales based on regions, product categories, time periods, and customer segments.
+
 Developing a Dynamic Dashboard:
 
 Designed a user-friendly dashboard that provides executives with real-time insights into business performance, helping optimize sales strategies and profitability.
+
 Outcome & Impact:
+
 The Adventure Works Analytics Dashboard provided valuable insights into business operations, allowing stakeholders to:
 
 Monitor revenue and profit trends over time.
